@@ -13,7 +13,7 @@
 --texte barré--
 [lien vers google](https://www.google.com)
 
-![image] (https://images.pexels.com/photos/2919720/pexels-photo-2919720.jpeg?cs=srgb&dl=pexels-michal-lizuch-417916-2919720.jpg&fm=jpg)
+![image](https://images.pexels.com/photos/2919720/pexels-photo-2919720.jpeg?cs=srgb&dl=pexels-michal-lizuch-417916-2919720.jpg&fm=jpg)
 
 ```html
 <html></html>
